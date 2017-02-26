@@ -4,3 +4,12 @@ body{
 .search{
   margin-left:10px;
 }
+h2 {
+    text-align: center;
+}
+form {
+    margin-left: 30%;
+}
+.span2 {
+    background-color: rebeccapurple;
+}
